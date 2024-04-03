@@ -6,7 +6,7 @@ workspace {
     !docs docs
 
     model {
-        user = person "Attendee"
+        user = person "Attendee" "General attendee"
         organizer = person "Organizer" "Someone managing the system" {
             tags organizer
         }
