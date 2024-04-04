@@ -1,6 +1,6 @@
 workspace {
     name "Conference Kata"
-    description "The software architecture of Neal Ford's Conference Kata."
+    description "The software architecture of Neal Ford's Conference Kata implemented with a modulith for Spring IO"
 
     !adrs adrs
     !docs docs

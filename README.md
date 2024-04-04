@@ -5,8 +5,13 @@ System design for [Conference Kata](https://nealford.com/katas/kata?id=AllStuffN
 ### System Landscape
 ![Component View](workspace/.structurizr/images/Component-003-thumbnail.png)
 
-## How to run this example
+### Container view
+![conference app](workspace/.structurizr/images/Component-002-thumbnail.png)
 
+### Component view
+![component view](workspace/.structurizr/images/Component-003-thumbnail.png)
+
+## How to run this example
 Execute this command to run a Docker container with a structurizr lite image.
 
 ```bash
